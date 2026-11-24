@@ -14,7 +14,7 @@ import {
 } from 'react-native';
 import 'react-native-url-polyfill/auto';
 
-// COLOQUE AQUI OS DADOS DO SEU PROJETO SUPABASE
+
 const SUPABASE_URL = 'https://ruuvpzbajjmtkcyajcxn.supabase.co';
 const SUPABASE_KEY = 'sb_publishable_v6d6K54flAI1CgE4WqnPng_0s46-_fy';
 
